@@ -1,3 +1,3 @@
 ## Hi I'm nat :>👋
 
-https://github.com/anuraghazra/github-readme-stats
+https://github.com/nieytan/github-readme-stats
