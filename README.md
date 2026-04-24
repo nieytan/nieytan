@@ -1,3 +1,3 @@
 ## Hi I'm nat :>👋
 
-https://github.com/nieytan/github-readme-stats
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=nieytan)](https://github.com/anuraghazra/github-readme-stats)
