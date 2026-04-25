@@ -1,4 +1,6 @@
 ## Hi I'm nat :>
+![Joined](https://img.shields.io/badge/Joined-July%2027%202023-ff67d4?style=flat-square&logo=github&logoColor=D6139D&labelColor=3A3447&color=D6139D
+)
 
 ### 🏆 My GitHub Achievements
 *Overview of my coding activity and most used languages.*
