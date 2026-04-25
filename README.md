@@ -1,4 +1,4 @@
-## Hi I'm nat :>👋
+## Hi I'm nat :>
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=anuraghazra&show_icons=true&theme=aura&show=reviews,discussions_started,discussions_answered,prs_merged,prs_merged_percentage&rank_icon=github&custom_title=Achievements)
 
@@ -6,7 +6,7 @@
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=donut&theme=aura)](https://github.com/anuraghazra/github-readme-stats)
 
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=nieytan&repo=Bored-message-natnat&theme=aura)](https://github.com/nieytan/Bored-message-natnat)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=nieytan&repo=funfactsaboutme&theme=aura)](https://github.com/nieytan/funfactsaboutme)
 
 (not work beyond this)
 
