@@ -1,6 +1,6 @@
 ## Hi I'm nat :>👋
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=nieytan&show_icons=true&theme=aura&show=reviews,discussions_started,discussions_answered,prs_merged,prs_merged_percentage&rank_icon=github&custom_title=Achievemens)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=anuraghazra&show_icons=true&theme=aura&show=reviews,discussions_started,discussions_answered,prs_merged,prs_merged_percentage&rank_icon=github&custom_title=Achievements)
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&stats_format=bytes&theme=aura)
 
