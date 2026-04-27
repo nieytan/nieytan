@@ -4,7 +4,6 @@
 
 
 ## Socials
-*Overview of my Contacts and Information*
 ![Facebook](https://img.shields.io/badge/Facebook-Social?style=for-the-badge&logo=Facebook&logoColor=LightBlue&logoSize=30&color=black&link=https%3A%2F%2Ffacebook.com%2Fnathan2wild
 )
 ![Instagram](https://img.shields.io/badge/Instagram-Social?style=for-the-badge&logo=Instagram&logoColor=LightBlue&logoSize=30&color=black&link=https%3A%2F%2Finstagram.com%2Fnhyieuw
