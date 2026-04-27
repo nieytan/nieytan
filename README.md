@@ -1,13 +1,12 @@
 ## Hi I'm nat :>
-![Joined](https://img.shields.io/badge/Joined-July%2027%202023-ff67d4?style=flat-square&logo=github&logoColor=D6139D&labelColor=3A3447&color=D6139D&link=https%3A%2F%2Fgithub.com%2Fnieytan
-)
+![Joined](https://img.shields.io/badge/Joined-July%2027%202023-ff67d4?style=flat-square&logo=github&logoColor=D6139D&labelColor=3A3447&color=D6139D&link=https%3A%2F%2Fgithub.com%2Fnieytan)
 
 ## Socials
-![Facebook](https://img.shields.io/badge/Facebook-Social?style=social&logo=Facebook&logoSize=30&link=https%3A%2F%2Fwww.facebook.com%2Fnathan2wild
+![Facebook](https://img.shields.io/badge/Facebook-Social?style=for-the-badge&logo=Facebook&logoColor=LightBlue&logoSize=30&color=black&link=https%3A%2F%2Ffacebook.com%2Fnathan2wild
 )
-![Instagram](https://img.shields.io/badge/Instagram-Social?logo=Instagram&logoSize=30&color=black&link=https%3A%2F%2Finstagram.com%2Fnhyieuw
+![Instagram](https://img.shields.io/badge/Instagram-Social?style=for-the-badge&logo=Instagram&logoColor=LightBlue&logoSize=30&color=black&link=https%3A%2F%2Finstagram.com%2Fnhyieuw
 )
-![Discord](https://img.shields.io/badge/Discord-Social?logo=Discord&logoSize=30&color=black&link=https%3A%2F%2Fdiscord.com%2Fusers%2F1132595804721397791
+![Discord](https://img.shields.io/badge/Discord-Social?style=for-the-badge&logo=Discord&logoColor=LightBlue&logoSize=30&color=black&link=https%3A%2F%2Fdiscord.com%2Fusers%2F1132595804721397791
 )
 
 
