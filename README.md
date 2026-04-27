@@ -6,6 +6,8 @@
 )
 ![Instagram](https://img.shields.io/badge/Instagram-Social?style=for-the-badge&logo=Instagram&logoColor=LightBlue&logoSize=30&color=black&link=https%3A%2F%2Finstagram.com%2Fnhyieuw
 )
+![Threads](https://img.shields.io/badge/Threads-Social?style=for-the-badge&logo=Threads&color=%23000000&link=https%3A%2F%2Fwww.threads.com%2F%40nhyieuw
+)
 ![Discord](https://img.shields.io/badge/Discord-Social?style=for-the-badge&logo=Discord&logoColor=LightBlue&logoSize=30&color=black&link=https%3A%2F%2Fdiscord.com%2Fusers%2F1132595804721397791
 )
 ![Github](https://img.shields.io/badge/Github-Social?style=for-the-badge&logo=Github&logoColor=LightBlue&logoSize=30&color=black&link=https%3A%2F%2Fgithub.com%2Fnieytan
