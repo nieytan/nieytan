@@ -2,6 +2,13 @@
 ![Joined](https://img.shields.io/badge/Joined-July%2027%202023-ff67d4?style=flat-square&logo=github&logoColor=D6139D&labelColor=3A3447&color=D6139D&link=https%3A%2F%2Fgithub.com%2Fnieytan
 )
 
+## Socials
+![Facebook](https://img.shields.io/badge/Facebook-Social?style=social&logo=Facebook&logoSize=30&link=https%3A%2F%2Fwww.facebook.com%2Fnathan2wild
+)
+![Instagram](https://img.shields.io/badge/Instagram-social?style=social&logo=Instagram&logoSize=30&link=https%3A%2F%2Fwww.instagram.com%2Fnhyieuw)
+
+
+
 ### 🏆 My GitHub Achievements
 *Overview of my coding activity and most used languages.*
 <p align="center">
