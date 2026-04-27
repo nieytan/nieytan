@@ -16,6 +16,9 @@
 )
 ![SoundCloud](https://img.shields.io/badge/SoundCloud-Social?style=for-the-badge&logo=SoundCloud&logoColor=F7F7F7&logoSize=50&labelColor=Black&color=080808&link=https%3A%2F%2Fon.soundcloud.com%2FTQbgAeXnx0xwBoVCad
 )
+![Email](https://img.shields.io/badge/Email-Social?style=for-the-badge&logo=Gmail&logoColor=%23FFFFFF&color=%23000000&link=nieytan.smth%40gmail.com
+)
+
 
 ### 🏆 My GitHub Achievements
 *Overview of my coding activity and most used languages.*
