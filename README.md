@@ -5,8 +5,10 @@
 ## Socials
 ![Facebook](https://img.shields.io/badge/Facebook-Social?style=social&logo=Facebook&logoSize=30&link=https%3A%2F%2Fwww.facebook.com%2Fnathan2wild
 )
-![Instagram](https://img.shields.io/badge/Instagram-social?style=social&logo=Instagram&logoSize=30&link=https%3A%2F%2Fwww.instagram.com%2Fnhyieuw)
-
+![Instagram](https://img.shields.io/badge/Instagram-Social?logo=Instagram&logoSize=30&color=black&link=https%3A%2F%2Finstagram.com%2Fnhyieuw
+)
+![Discord](https://img.shields.io/badge/Discord-Social?logo=Discord&logoSize=30&color=black&link=https%3A%2F%2Fdiscord.com%2Fusers%2F1132595804721397791
+)
 
 
 ### 🏆 My GitHub Achievements
