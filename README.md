@@ -8,7 +8,12 @@
 )
 ![Discord](https://img.shields.io/badge/Discord-Social?style=for-the-badge&logo=Discord&logoColor=LightBlue&logoSize=30&color=black&link=https%3A%2F%2Fdiscord.com%2Fusers%2F1132595804721397791
 )
-
+![Github](https://img.shields.io/badge/Github-Social?style=for-the-badge&logo=Github&logoColor=LightBlue&logoSize=30&color=black&link=https%3A%2F%2Fgithub.com%2Fnieytan
+)
+![Twitter](https://img.shields.io/badge/Twitter-Social?style=for-the-badge&logo=X&logoColor=LightBlue&logoSize=30&color=black&link=https%3A%2F%2Fx.com%2Fnei_exe
+)
+![SoundCloud](https://img.shields.io/badge/SoundCloud-Social?style=for-the-badge&logo=SoundCloud&logoColor=F7F7F7&logoSize=50&labelColor=Black&color=080808&link=https%3A%2F%2Fon.soundcloud.com%2FTQbgAeXnx0xwBoVCad
+)
 
 ### 🏆 My GitHub Achievements
 *Overview of my coding activity and most used languages.*
