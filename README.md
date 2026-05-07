@@ -21,8 +21,8 @@
 ### 🏆 My GitHub Achievements
 *Overview of my coding activity and most used languages.*
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=anuraghazra&show_icons=true&theme=aura&show=reviews,discussions_started,discussions_answered,prs_merged,prs_merged_percentage&rank_icon=github&custom_title=Achievements" height="195" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=donut&theme=aura" height="195" />
+  <img src="https://github-readme-stats.vercel.app/api?username=nieytan&show_icons=true&theme=aura&show=reviews,discussions_started,discussions_answered,prs_merged,prs_merged_percentage&rank_icon=github&custom_title=Achievements" height="195" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=nieytan&layout=donut&theme=aura" height="195" />
 </p>
 
 ### 📌 Featured Projects & Notes
