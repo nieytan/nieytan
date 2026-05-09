@@ -21,15 +21,15 @@
 ### 🏆 My GitHub Achievements
 *Overview of my coding activity and most used languages.*
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=nieytan&show_icons=true&theme=aura&show=reviews,discussions_started,discussions_answered,prs_merged,prs_merged_percentage&rank_icon=github&custom_title=Achievements" height="195" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=nieytan&layout=donut&theme=aura" height="195" />
+  <img src="https://github-readme-stats.vercel.app/api?username=natpyydev &show_icons=true&theme=aura&show=reviews,discussions_started,discussions_answered,prs_merged,prs_merged_percentage&rank_icon=github&custom_title=Achievements" height="195" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=natpyydev&layout=donut&theme=aura" height="195" />
 </p>
 
 ### 📌 Featured Projects & Notes
 *A quick look at my specific repositories and quick notes.*
 <p align="center">
   <!-- Pinned Repo Card -->
-  <a href="https://github.com/nieytan/funfactsaboutme">
+  <a href="https://github.com/natpyydev/funfactsaboutme">
     <img src="https://github-readme-stats.vercel.app/api/pin/?username=nieytan&repo=funfactsaboutme&theme=aura" height="120" />
   </a>
 
